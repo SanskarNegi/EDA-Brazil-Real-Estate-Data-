@@ -9,4 +9,18 @@ This Repo include following files
 - **brasil_1.csv:** Our first csv file, from where we are getting our data 
 - **brasil_2.csv:** Our second csv file, from where we are getting our data 
 
+## Getting Started
+### Environment
+The following packages installed
+* pandas
+* maptplotlib
+* plotly.express
 
+### Installing
+* You can download our Brasil EDA.ipynb and csv files form repository.
+* Now you can run this programm on jupyter notebook, any python notebook or any python IDE.
+* Before running programm you have to specify your file path where you have downloaded csv files into our read_csv method.
+```
+   df1 = pd.read_csv("filepath/brasil_1.csv")
+   df2 = pd.read_csv("filepath/brasil-real-estate/brasil_2.csv")
+```
