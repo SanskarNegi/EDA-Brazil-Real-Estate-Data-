@@ -5,7 +5,7 @@ This project is created to get insight of our real_estate data of Brazil, so tha
 
 This Repo include following files
 - **README.md:** This file, which contains a summary of files used for this project
-- **Brasil EDA.ipynb:** pyhton notebook where all the task has performed on our data
+- **Brasil EDA.ipynb:** python notebook where all the task has performed on our data
 - **brasil_1.csv:** Our first csv file, from where we are getting our data 
 - **brasil_2.csv:** Our second csv file, from where we are getting our data 
 
