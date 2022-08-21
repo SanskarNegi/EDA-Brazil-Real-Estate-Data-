@@ -22,5 +22,5 @@ The following packages installed
 * Before running programm you have to specify your file path where you have downloaded csv files into our read_csv method.
 ```
    df1 = pd.read_csv("filepath/brasil_1.csv")
-   df2 = pd.read_csv("filepath/brasil-real-estate/brasil_2.csv")
+   df2 = pd.read_csv("filepath/brasil_2.csv")
 ```
